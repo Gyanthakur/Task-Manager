@@ -98,6 +98,16 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 
+
+
+
+// header('Access-Control-Allow-Origin : *');
+// header('Access-Control-Allow-Methods : POST, GET, PUT, DELETE, OPTIONS,post, Get, get');
+// header('Access-Control-Allow-Headers : Content-Type, X-Auth-Token, Origin, Authorization');
+
+
+
+
 // Test API Route
 app.get("/", (req, res) => {
   res.send("API is working fine 🚀");
