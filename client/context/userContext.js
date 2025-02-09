@@ -9,8 +9,8 @@ const UserContext = React.createContext();
 axios.defaults.withCredentials = true;
 
 export const UserContextProvider = ({ children }) => {
-  // const serverUrl = "https://taskfyer.onrender.com";
-  const serverUrl = "http://localhost:4000";
+  const serverUrl = "https://task-manager-fj39.onrender.com";
+  // const serverUrl = "http://localhost:4000";
 
   const router = useRouter();
 
