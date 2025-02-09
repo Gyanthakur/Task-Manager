@@ -11,6 +11,16 @@ A simple and efficient **Task Manager** application that helps users manage thei
 - 🌓 Light & Dark Mode support
 - 📱 Responsive UI for all devices
 
+## demo
+
+
+  ![image](https://github.com/user-attachments/assets/b42b95a4-b040-4c1c-8332-be6c86fd119d)
+  ![image](https://github.com/user-attachments/assets/65bfe446-632f-41e7-8bf9-1a68bf77a18a)
+
+  ![image](https://github.com/user-attachments/assets/850d52be-607a-4bf8-be79-9f10d9c6f1dd)
+
+
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Next.js, Tailwind CSS
